@@ -3,6 +3,9 @@ guid: 8f1f53a34acd1284cad05ce892f9d6a3
 TextureImporter:
   fileIDToRecycleName:
     21300000: playership
+    21300002: sheet_0
+    21300004: sheet_1
+    21300006: sheet_2
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -100,6 +103,66 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 52924819945b6c541900cc9bd0037069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 213
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c58c2be3b03bd94d9847b1f8ca99952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_1
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 213
+        width: 9
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4decc120c8615448ce7b5fc580b916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sheet_2
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 477
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9923eba38f4fc48b43fbc45693799f
       vertices: []
       indices: 
       edges: []
